@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm [Joe_Sky](https://www.zhihu.com/people/zhou-tao-49-55).
 
 <!--
 **joe-sky/joe-sky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React, Typescript, Vite ...
 - 👯 I’m looking to collaborate on my project [NornJ](https://github.com/joe-sky/nornj), its document is not yet complete, but I will work harder to do it well 💪.
 - 📫 How to reach me: hitomi_doax@sina.com
-- ⚡ Fun fact: I'm a hardcore video game player. I have the following game consoles: `Play Station`, `Play Station 2`, `Play Station 3`, `Play Station 4`, `Play Station Portable`, `Play Station Portable Go`, `Play Station Vita`, `Play Station VR`, `Xbox`, `Xbox 360`, `Xbox One X`, `Nintendo Switch`, `Nintendo Switch Lite`, `Nintendo 3DS`, `Nintendo NDS`, `Nintendo NDSLL`, `Nintendo Game Cube`, `Nintendo Super Famicom`, `Nintendo Famicom`, `Game Boy`, `Game Boy Pocket`, `Game Boy Light`, `Game Boy Color`, `Game Boy Advance`, `Game Boy Advance SP`, `Sega Mega Drive`, `Sega Genesis Nomad`, `Sega Saturn`, `Sega Game Gear`. It's shocking that even consoles 20 years ago can still play games 😱
+- ⚡ Fun fact: I'm a hardcore video game player. I have the following game consoles: `Play Station`, `Play Station 2`, `Play Station 3`, `Play Station 4`, `Play Station Portable`, `Play Station Portable Go`, `Play Station Vita`, `Play Station VR`, `Xbox`, `Xbox 360`, `Xbox One X`, `Nintendo Switch`, `Nintendo Switch Lite`, `Nintendo 3DS`, `Nintendo NDS`, `Nintendo NDSLL`, `Nintendo Game Cube`, `Nintendo Super Famicom`, `Nintendo Famicom`, `Game Boy`, `Game Boy Pocket`, `Game Boy Light`, `Game Boy Color`, `Game Boy Advance`, `Game Boy Advance SP`, `Sega Game Gear`, `Sega Mega Drive`, `Sega Genesis Nomad`, `Sega Saturn`, `Sega Dreamcast`. It's shocking that even consoles 20 years ago can still play games 😱
 
 <img  src="https://github-readme-stats.vercel.app/api?username=joe-sky&show_icons=true&hide_title=true" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-sky&hide_langs_below=1" />
