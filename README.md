@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m an ordinary Front-End engineer currently working on [JD.com](https://www.jd.com/).
 - 🌱 I’m currently learning React, Typescript, Vite ...
-- 👯 I'm trying to create some projects(such as [NornJ](https://github.com/joe-sky/nornj), and other **mysterious new projects**) that are useful to the community and expect to be recognized by more people. I will keep working hard 💪.
+- 👯 I'm trying to create some projects(e.g. [NornJ](https://github.com/joe-sky/nornj), [Narrative](https://github.com/joe-sky/narrative), [jsx-sfc](https://github.com/joe-sky/jsx-sfc), and other new projects) that are useful to the community and expect to be recognized by more people. I will keep working hard 💪.
 - 📫 How to reach me: hitomi_doax@sina.com
 - ⚡ Fun fact: I should be a hardcore video game player. I have the following game consoles: `Play Station`, `Play Station 2`, `Play Station 3`, `Play Station 4`, `Play Station Portable`, `Play Station Portable Go`, `Play Station Vita`, `Play Station VR`, `Xbox`, `Xbox 360`, `Xbox One X`, `Nintendo Switch`, `Nintendo Switch Lite`, `Nintendo 3DSLL`, `Nintendo DS`, `Nintendo DS Lite`, `Nintendo DSLL`, `Nintendo Game Cube`, `Nintendo Super Famicom`, `Nintendo Famicom`, `Game Boy`, `Game Boy Pocket`, `Game Boy Light`, `Game Boy Color`, `Game Boy Advance`, `Game Boy Advance SP`, `Game Boy Micro`, `Sega Game Gear`, `Sega Mega Drive`, `Sega Genesis Nomad`, `Sega Saturn`, `Sega Dreamcast`. It's shocking that even consoles 20 years ago can still play games 😱
 
