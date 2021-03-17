@@ -22,43 +22,43 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I should be a hardcore video game player. It's shocking that even consoles 20 years ago can still play games 😱.
 <details>
 <summary>
-All my game consoles
+All my game consoles and the year I bought them 🧐
 </summary>
 <ul>
-  <li>Play Station</li>
-  <li>Play Station 2</li>
-  <li>Play Station 3</li>
-  <li>Play Station 4</li>
-  <li>Play Station Portable</li>
-  <li>Play Station Portable Go</li>
-  <li>Play Station Vita</li>
-  <li>Play Station VR</li>
-  <li>Play Station Classic</li>
-  <li>Xbox</li>
-  <li>Xbox 360</li>
-  <li>Xbox One X</li>
-  <li>Nintendo Switch</li>
-  <li>Nintendo Switch Lite</li>
-  <li>Nintendo 3DSLL</li>
-  <li>Nintendo DS</li>
-  <li>Nintendo DS Lite</li>
-  <li>Nintendo DSLL</li>
-  <li>Nintendo Game Cube</li>
-  <li>Nintendo Super Famicom</li>
-  <li>Nintendo Famicom</li>
-  <li>Game Boy</li>
-  <li>Game Boy Pocket</li>
-  <li>Game Boy Light</li>
-  <li>Game Boy Color</li>
-  <li>Game Boy Advance</li>
-  <li>Game Boy Advance SP</li>
-  <li>Game Boy Micro</li>
-  <li>Sega Game Gear</li>
-  <li>Sega Game Gear Micro</li>
-  <li>Sega Mega Drive</li>
-  <li>Sega Genesis Nomad</li>
-  <li>Sega Saturn</li>
-  <li>Sega Dreamcast</li>
+  <li>Play Station (2000)</li>
+  <li>Play Station 2 (2002)</li>
+  <li>Play Station 3 (2014)</li>
+  <li>Play Station 4 (2020)</li>
+  <li>Play Station Portable (2007)</li>
+  <li>Play Station Portable Go (2011)</li>
+  <li>Play Station Vita (2016)</li>
+  <li>Play Station VR (2020)</li>
+  <li>Play Station Classic (2020)</li>
+  <li>Xbox (2003)</li>
+  <li>Xbox 360 (2009)</li>
+  <li>Xbox One X (2019)</li>
+  <li>Nintendo Switch (2019,2020)</li>
+  <li>Nintendo Switch Lite (2020)</li>
+  <li>Nintendo 3DSLL (2013)</li>
+  <li>Nintendo DS (2017)</li>
+  <li>Nintendo DS Lite (2006)</li>
+  <li>Nintendo DSLL (2010)</li>
+  <li>Nintendo Game Cube (2005)</li>
+  <li>Nintendo Super Famicom (2018)</li>
+  <li>Nintendo Famicom (1993,2018)</li>
+  <li>Game Boy (1998)</li>
+  <li>Game Boy Pocket (1998)</li>
+  <li>Game Boy Light (2017)</li>
+  <li>Game Boy Color (1999)</li>
+  <li>Game Boy Advance (2002)</li>
+  <li>Game Boy Advance SP (2004)</li>
+  <li>Game Boy Micro (2005,2021)</li>
+  <li>Sega Game Gear (1999,2017)</li>
+  <li>Sega Game Gear Micro (2021)</li>
+  <li>Sega Mega Drive (1996)</li>
+  <li>Sega Genesis Nomad (1999)</li>
+  <li>Sega Saturn (2020)</li>
+  <li>Sega Dreamcast (2001)</li>
 </ul>
 </details>
 
