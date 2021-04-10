@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m an ordinary Front-End engineer currently working on [JD.com](https://www.jd.com/).
-- 🌱 I’m currently learning React, Typescript, Vite ...
+- 🌱 I’m currently learning React, Typescript, Vue, Vite ...
 - 👯 I'm trying to create some projects(e.g. [NornJ](https://github.com/joe-sky/nornj), [jsx-sfc](https://github.com/joe-sky/jsx-sfc), [Narrative](https://github.com/joe-sky/narrative), and other new projects) that are useful to the community and expect to be recognized by more people. I will keep working hard 💪.
 - 📫 How to reach me: zhoutaoinfo@jd.com
 - ⚡ Fun fact: I should be a hardcore video game player. It's shocking that even consoles 20 years ago can still play games 😱.
@@ -56,6 +56,7 @@ All my game consoles and the year I bought them 🧐
   <li>Sega Game Gear (1999,2017)</li>
   <li>Sega Game Gear Micro (2021)</li>
   <li>Sega Mega Drive (1996)</li>
+  <li>Sega Mega Drive Mini (2021)</li>
   <li>Sega Genesis Nomad (1999)</li>
   <li>Sega Saturn (2020)</li>
   <li>Sega Dreamcast (2001)</li>
