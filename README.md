@@ -63,5 +63,5 @@ All my game consoles and the year I bought them 🧐
 </ul>
 </details>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=joe-sky&show_icons=true&hide_title=true" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-sky&hide_langs_below=1" />
+<img  src="https://github-readme-stats.vercel.app/api?username=joe-sky&show_icons=true&hide_title=true&theme=radical" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-sky&hide_langs_below=1&theme=radical" />
