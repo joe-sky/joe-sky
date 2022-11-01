@@ -56,7 +56,7 @@ All my game consoles and the year I bought them 🧐
   <li>Game Boy Advance SP (2004)</li>
   <li>Game Boy Micro (2005, 2021)</li>
   <li>Sega Game Gear (1999, 2017)</li>
-  <li>Sega Game Gear Micro (2021)</li>
+  <li>Sega Game Gear Micro (2021, 2022)</li>
   <li>Sega Mega Drive (1996)</li>
   <li>Sega Mega Drive Mini (2021)</li>
   <li>Sega Genesis Nomad (1999)</li>
