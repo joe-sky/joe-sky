@@ -59,6 +59,7 @@ All my game consoles and the year I bought them 🧐
   <li>Sega Game Gear Micro (2021, 2022)</li>
   <li>Sega Mega Drive (1996)</li>
   <li>Sega Mega Drive Mini (2021)</li>
+  <li>Sega Mega Drive Mini 2 (2023)</li>
   <li>Sega Mega CD 2 (2018)</li>
   <li>Sega Genesis Nomad (1999)</li>
   <li>Sega Saturn (2020)</li>
