@@ -65,6 +65,8 @@ All my game consoles and the year I bought them 🧐
   <li>Sega Saturn (2020)</li>
   <li>Sega Dreamcast (2001)</li>
   <li>PC Engine Core Grafx mini (2023)</li>
+  <li>Valve Steam Deck (2023)</li>
+  <li>ASUS Rog Ally (2023)</li>
 </ul>
 </details>
 
