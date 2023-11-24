@@ -67,6 +67,7 @@ All my game consoles and the year I bought them 🧐
   <li>PC Engine Core Grafx mini (2023)</li>
   <li>Valve Steam Deck (2023)</li>
   <li>ASUS Rog Ally (2023)</li>
+  <li>Analogue Pocket (2023)</li>
 </ul>
 </details>
 
