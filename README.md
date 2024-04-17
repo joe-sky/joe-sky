@@ -68,6 +68,7 @@ All my game consoles and the year I bought them 🧐
   <li>Valve Steam Deck (2023)</li>
   <li>ASUS Rog Ally (2023)</li>
   <li>Analogue Pocket (2023)</li>
+  <li>SNK NEOGEO Mini (2024)</li>
 </ul>
 </details>
 
