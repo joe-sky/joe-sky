@@ -29,6 +29,7 @@ All my game consoles and the year I bought them 🧐
   <li>Play Station 2 (2002)</li>
   <li>Play Station 3 (2014)</li>
   <li>Play Station 4 (2020)</li>
+  <li>Play Station 5 (2024)</li>
   <li>Play Station Portable (2007)</li>
   <li>Play Station Portable Go (2011)</li>
   <li>Play Station Vita (2016)</li>
@@ -64,7 +65,7 @@ All my game consoles and the year I bought them 🧐
   <li>Sega Genesis Mini 2 (2023)</li>
   <li>Sega Saturn (2020)</li>
   <li>Sega Dreamcast (2001)</li>
-  <li>PC Engine Core Grafx mini (2023)</li>
+  <li>PC Engine Core Grafx Mini (2023)</li>
   <li>Valve Steam Deck (2023)</li>
   <li>ASUS Rog Ally (2023)</li>
   <li>Analogue Pocket (2023)</li>
