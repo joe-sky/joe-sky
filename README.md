@@ -38,6 +38,7 @@ All my game consoles and the year I bought them 🧐
   <li>Xbox (2003)</li>
   <li>Xbox 360 (2009)</li>
   <li>Xbox One X (2019)</li>
+  <li>Xbox Series X (2024)</li>
   <li>Nintendo Switch OLED (2022)</li>
   <li>Nintendo Switch (2019, 2020)</li>
   <li>Nintendo Switch Lite (2020)</li>
