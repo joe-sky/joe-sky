@@ -42,6 +42,7 @@ All my game consoles and the year I bought them 🧐
   <li>Nintendo Switch OLED (2022)</li>
   <li>Nintendo Switch (2019, 2020)</li>
   <li>Nintendo Switch Lite (2020)</li>
+  <li>Nintendo Switch 2 (2025)</li>
   <li>Nintendo WII (2008)</li>
   <li>Nintendo 3DS LL (2013)</li>
   <li>Nintendo DS (2017)</li>
