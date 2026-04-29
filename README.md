@@ -34,6 +34,7 @@ All my game consoles and the year I bought them 🧐
   <li>Play Station Portable Go (2011)</li>
   <li>Play Station Vita (2016)</li>
   <li>Play Station VR (2020)</li>
+  <li>Play Station VR 2 (2025)</li>
   <li>Play Station Classic (2020)</li>
   <li>Xbox (2003)</li>
   <li>Xbox 360 (2009)</li>
